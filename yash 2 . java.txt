@@ -1,0 +1,39 @@
+class Algebra{
+  // class level scope.
+  int a=10; //class  member variable
+  int b=5;
+  public int add(){
+   /*  int x = a+b;
+    return x;*/
+    int a = 3;
+    int b = 6;
+    return a+b;
+  }
+  public int sub(){
+    int a = 5;
+    int b = 3;
+    return a-b;
+  }
+
+}
+class scope{
+  public static void main(String[] args) {
+  {
+    
+    {
+      for(int i=0;i<5;i=i+1){
+        System.out.println(i);
+      }
+    }
+    {
+      for(int i=5;i<9;i=i+1){
+        System.out.println(i);
+       
+    }
+  
+  }
+
+}
+
+  }
+}
