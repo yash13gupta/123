@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **study**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **core java**
 
-- 📫 How to reach me **yashitas072@gmail.com**
+- 📫 How to reach me **yg90121@gmail.com**
 
 - 📄 Know about my experiences [Fresher](Fresher)
 
-- ⚡ Fun fact **I am smart**
+- ⚡ Fun fact **I am learning like a thirsty crow.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
